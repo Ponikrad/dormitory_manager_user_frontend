@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors - Material Design 3 -->
+    <color name="md_theme_light_primary">#1976D2</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_primaryContainer">#D3E4FD</color>
+    <color name="md_theme_light_onPrimaryContainer">#001C38</color>
+
+    <color name="md_theme_dark_primary">#A1C9FF</color>
+    <color name="md_theme_dark_onPrimary">#003060</color>
+    <color name="md_theme_dark_primaryContainer">#004A88</color>
+    <color name="md_theme_dark_onPrimaryContainer">#D3E4FD</color>
+
+    <!-- Secondary Colors -->
+    <color name="md_theme_light_secondary">#00BCD4</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_secondaryContainer">#B8E8F5</color>
+    <color name="md_theme_light_onSecondaryContainer">#001F24</color>
+
+    <color name="md_theme_dark_secondary">#7DD5E8</color>
+    <color name="md_theme_dark_onSecondary">#00363D</color>
+    <color name="md_theme_dark_secondaryContainer">#004F58</color>
+    <color name="md_theme_dark_onSecondaryContainer">#B8E8F5</color>
+
+    <!-- Tertiary Colors -->
+    <color name="md_theme_light_tertiary">#5E6DC7</color>
+    <color name="md_theme_light_onTertiary">#FFFFFF</color>
+    <color name="md_theme_light_tertiaryContainer">#E3E1FF</color>
+    <color name="md_theme_light_onTertiaryContainer">#1A1452</color>
+
+    <color name="md_theme_dark_tertiary">#C4C4FF</color>
+    <color name="md_theme_dark_onTertiary">#2D2D75</color>
+    <color name="md_theme_dark_tertiaryContainer">#454592</color>
+    <color name="md_theme_dark_onTertiaryContainer">#E3E1FF</color>
+
+    <!-- Error Colors -->
+    <color name="md_theme_light_error">#BA1A1A</color>
+    <color name="md_theme_light_onError">#FFFFFF</color>
+    <color name="md_theme_light_errorContainer">#FFDAD6</color>
+    <color name="md_theme_light_onErrorContainer">#410002</color>
+
+    <color name="md_theme_dark_error">#FFB4AB</color>
+    <color name="md_theme_dark_onError">#690005</color>
+    <color name="md_theme_dark_errorContainer">#93000A</color>
+    <color name="md_theme_dark_onErrorContainer">#FFDAD6</color>
+
+    <!-- Background Colors -->
+    <color name="md_theme_light_background">#FDFBFF</color>
+    <color name="md_theme_light_onBackground">#1A1C1E</color>
+    <color name="md_theme_light_surface">#FDFBFF</color>
+    <color name="md_theme_light_onSurface">#1A1C1E</color>
+    <color name="md_theme_light_surfaceVariant">#DFE2EB</color>
+    <color name="md_theme_light_onSurfaceVariant">#43474E</color>
+
+    <color name="md_theme_dark_background">#1A1C1E</color>
+    <color name="md_theme_dark_onBackground">#E2E2E6</color>
+    <color name="md_theme_dark_surface">#1A1C1E</color>
+    <color name="md_theme_dark_onSurface">#E2E2E6</color>
+    <color name="md_theme_dark_surfaceVariant">#43474E</color>
+    <color name="md_theme_dark_onSurfaceVariant">#C3C6CF</color>
+
+    <!-- Outline -->
+    <color name="md_theme_light_outline">#73777F</color>
+    <color name="md_theme_dark_outline">#8D9199</color>
+
+    <!-- Surface Tint -->
+    <color name="md_theme_light_surfaceTint">#1976D2</color>
+    <color name="md_theme_dark_surfaceTint">#A1C9FF</color>
+
+    <!-- Inverse Colors -->
+    <color name="md_theme_light_inverseSurface">#2F3033</color>
+    <color name="md_theme_light_inverseOnSurface">#F1F0F4</color>
+    <color name="md_theme_light_inversePrimary">#A1C9FF</color>
+
+    <color name="md_theme_dark_inverseSurface">#E2E2E6</color>
+    <color name="md_theme_dark_inverseOnSurface">#2F3033</color>
+    <color name="md_theme_dark_inversePrimary">#1976D2</color>
+
+    <!-- Status Colors -->
+    <color name="status_success">#4CAF50</color>
+    <color name="status_warning">#FF9800</color>
+    <color name="status_error">#F44336</color>
+    <color name="status_info">#2196F3</color>
+
+    <!-- Semantic Colors -->
+    <color name="status_completed">#4CAF50</color>
+    <color name="status_pending">#FF9800</color>
+    <color name="status_failed">#F44336</color>
+
+    <!-- Legacy support (for gradual migration) -->
+    <color name="primary_blue">#1976D2</color>
+    <color name="primary_blue_light">#42A5F5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="error">#BA1A1A</color>
+
+    <!-- Card backgrounds -->
+    <color name="card_background_light">#F5F5F5</color>
+
+    <!-- Additional UI colors -->
+    <color name="text_primary">#212121</color>
+
+    <!-- Chat colors -->
+    <color name="surface_variant">#E7E0EC</color>
+    <color name="on_surface">#1C1B1F</color>
+    <color name="on_surface_variant">#49454F</color>
+
+</resources>
